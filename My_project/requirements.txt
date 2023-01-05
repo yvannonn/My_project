@@ -1,5 +1,0 @@
-pandas
-numpy
-matplotlib
-mpl_toolkits.mplot3d 
-plotly
